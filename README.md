@@ -11,7 +11,7 @@ java -jar Downloader.jar 7 "D:\to_download.txt" "D:\Downloads"
 "D:\to_download.txt" - путь к файлу, откуда будут браться ссылки;
 "D:\Downloads" - куда загрузятся файлы (создастся автоматически).
 
-Пример файла to_download.txt представлен в папке "/files";
+Пример файла to_download.txt представлен в папке "files";
 Можно создать свой по следующему шаблону:
 http://kremlin.ru/static/pdf/constitution.pdf ImportantDocument
 
